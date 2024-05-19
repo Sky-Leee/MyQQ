@@ -1,0 +1,73 @@
+F:\c#\code\s1cs作业\myqq\bin\Debug\myqq.exe.config
+F:\c#\code\s1cs作业\myqq\bin\Debug\myqq.exe
+F:\c#\code\s1cs作业\myqq\bin\Debug\myqq.pdb
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.loadQQ.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.csproj.GenerateResource.cache
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.exe
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.pdb
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.newQQForm.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.QQmainForm.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.FindPwsForm.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.Properties.Resources.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.csprojAssemblyReference.cache
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.QQKaPianXinXi.resources
+F:\c#\code\s1cs作业\myqq\bin\Debug\MyChatListBox.dll
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.csproj.CopyComplete
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.FaceChoose.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.ChangeImfoForm.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.AddFriends.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.AddFrientsYanZ.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.AnQuanForm.resources
+F:\c#\code\s1cs作业\myqq\obj\Debug\myqq.chatForm.resources
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\myqq.exe.config
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\myqq.exe
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\myqq.pdb
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.csproj.AssemblyReference.cache
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.AddFriends.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.AddFrientsYanZ.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.AnQuanForm.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.ChangeImfoForm.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.chatForm.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.FaceChoose.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.FindPwsForm.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.loadQQ.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.newQQForm.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.Properties.Resources.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.QQKaPianXinXi.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.QQmainForm.resources
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.csproj.GenerateResource.cache
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.csproj.CoreCompileInputs.cache
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.csproj.Up2Date
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.exe
+Z:\virtual machine\MyQQ-with-.net\obj\Debug\myqq.pdb
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\BouncyCastle.Cryptography.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\Google.Protobuf.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\K4os.Compression.LZ4.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\K4os.Hash.xxHash.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\MySql.Data.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Buffers.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Configuration.ConfigurationManager.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.IO.Pipelines.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Memory.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Numerics.Vectors.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\ZstdSharp.dll
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\BouncyCastle.Cryptography.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\Google.Protobuf.pdb
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\Google.Protobuf.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\K4os.Compression.LZ4.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\K4os.Hash.xxHash.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\MySql.Data.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Buffers.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.IO.Pipelines.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Memory.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Numerics.Vectors.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\virtual machine\MyQQ-with-.net\bin\Debug\System.Threading.Tasks.Extensions.xml

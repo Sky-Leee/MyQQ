@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\virtual machine\\MyQQ-with-.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|z:\\virtual machine\\myqq-with-.net\\changeimfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:changeimfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|z:\\virtual machine\\myqq-with-.net\\facechoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:facechoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|Z:\\virtual machine\\MyQQ-with-.net\\qqkapianxinxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:qqkapianxinxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|z:\\virtual machine\\myqq-with-.net\\findpwsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:findpwsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|z:\\virtual machine\\myqq-with-.net\\anquanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:anquanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|z:\\virtual machine\\myqq-with-.net\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|Z:\\virtual machine\\MyQQ-with-.net\\addfrientsyanz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:addfrientsyanz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|Z:\\virtual machine\\MyQQ-with-.net\\addfriends.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:addfriends.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|Z:\\virtual machine\\MyQQ-with-.net\\qqmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:qqmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|Z:\\virtual machine\\MyQQ-with-.net\\newqqform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:newqqform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|Z:\\virtual machine\\MyQQ-with-.net\\loadqq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5639C0-622D-4AAF-BAD7-5A10AF6E55C9}|myqq.csproj|solutionrelative:loadqq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaceChoose.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\FaceChoose.cs",
+              "RelativeDocumentMoniker": "FaceChoose.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\FaceChoose.cs",
+              "RelativeToolTip": "FaceChoose.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:19:17.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangeImfoForm.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\ChangeImfoForm.cs",
+              "RelativeDocumentMoniker": "ChangeImfoForm.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\ChangeImfoForm.cs",
+              "RelativeToolTip": "ChangeImfoForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:12:46.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindPwsForm.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\FindPwsForm.cs",
+              "RelativeDocumentMoniker": "FindPwsForm.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\FindPwsForm.cs",
+              "RelativeToolTip": "FindPwsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:12:36.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnQuanForm.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\AnQuanForm.cs",
+              "RelativeDocumentMoniker": "AnQuanForm.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\AnQuanForm.cs",
+              "RelativeToolTip": "AnQuanForm.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwB4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:04:22.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "chatForm.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\chatForm.cs",
+              "RelativeDocumentMoniker": "chatForm.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\chatForm.cs",
+              "RelativeToolTip": "chatForm.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:56:22.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QQKaPianXinXi.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\QQKaPianXinXi.cs",
+              "RelativeDocumentMoniker": "QQKaPianXinXi.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\QQKaPianXinXi.cs",
+              "RelativeToolTip": "QQKaPianXinXi.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwCgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:47:40.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddFrientsYanZ.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\AddFrientsYanZ.cs",
+              "RelativeDocumentMoniker": "AddFrientsYanZ.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\AddFrientsYanZ.cs",
+              "RelativeToolTip": "AddFrientsYanZ.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvx0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:42:17.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddFriends.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\AddFriends.cs",
+              "RelativeDocumentMoniker": "AddFriends.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\AddFriends.cs",
+              "RelativeToolTip": "AddFriends.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvxsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:16:53.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QQmainForm.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\QQmainForm.cs",
+              "RelativeDocumentMoniker": "QQmainForm.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\QQmainForm.cs",
+              "RelativeToolTip": "QQmainForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAawBgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:53:21.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "newQQForm.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\newQQForm.cs",
+              "RelativeDocumentMoniker": "newQQForm.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\newQQForm.cs",
+              "RelativeToolTip": "newQQForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:48:54.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loadQQ.cs",
+              "DocumentMoniker": "Z:\\virtual machine\\MyQQ-with-.net\\loadQQ.cs",
+              "RelativeDocumentMoniker": "loadQQ.cs",
+              "ToolTip": "Z:\\virtual machine\\MyQQ-with-.net\\loadQQ.cs",
+              "RelativeToolTip": "loadQQ.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwBoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:41:39.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
